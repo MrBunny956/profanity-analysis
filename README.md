@@ -1,4 +1,4 @@
-ProfanityAnaylsis
+profanity-analysis
 =================
 
 Not all bad words are equal.  This filter rates a blob of text based off bad words to determine if the blob is too vulgar to use.
