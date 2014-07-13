@@ -1,8 +1,8 @@
 {
-    "name": "bad-words",
-    "version": "0.0.3",
-    "description": "A javascript filter for bad words",
-    "main": "./lib/badwords",
+    "name": "profanityAnaylsis",
+    "version": "0.0.1",
+    "description": "Not all bad words are equal. This filter rates a blob of text based off bad words to determine if the blob is too vulgar to use.",
+    "main": "./lib/profanityAnalysis",
     "directories": {
         "test": "test"
     },
