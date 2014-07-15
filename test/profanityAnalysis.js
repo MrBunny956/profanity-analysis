@@ -8,7 +8,7 @@ describe('filter', function(){
 		it("Should detect a bad word and return a boolean value",function(){
 			var results = filter.analyzeBlob("he was such a shit");
             console.log(results);
-            assert(results.score === 5);
+            assert(results.score === 500);
             assert(results.indexOfProfanity[0].index === 4);
 		});
 	});
